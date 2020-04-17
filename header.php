@@ -181,7 +181,9 @@
 						<div class="top-cart-items">
 						<div class="top-cart-item clearfix">
 							<div class="top-cart-item-image">
-							<a href="#"><img src="images/shop/small/1.jpg" /></a>
+							<a href="#">
+                <!-- <img src="images/shop/small/1.jpg" /> -->
+              </a>
 							</div>
 							<div class="top-cart-item-desc">
 							<a href="#">Blue Round-Neck Tshirt</a>
@@ -191,7 +193,9 @@
 						</div>
 						<div class="top-cart-item clearfix">
 							<div class="top-cart-item-image">
-							<a href="#"><img src="images/shop/small/6.jpg" /></a>
+							<a href="#">
+              <!-- <img src="images/shop/small/6.jpg" /> -->
+              </a>
 							</div>
 							<div class="top-cart-item-desc">
 							<a href="#">Light Blue Denim Dress</a>
